@@ -12,7 +12,9 @@ Contents:
    :maxdepth: 2
     
 
-   play
+   播放音频指令
+   烧写参数
+   板子烧写
 
 
 Indices and tables
